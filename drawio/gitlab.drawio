@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="cP-OJsohKqDCaiqapGPR">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uU-tdq5WraORiFn74uMR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8FCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="277" y="240" width="280" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-7" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;R1&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FBFBFB);" vertex="1" parent="1">
+          <mxGeometry x="284" y="305" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-9" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;R2&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: wrap;&quot;&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489" y="310" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#6AC2AD;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datacenter;" vertex="1" parent="1">
+          <mxGeometry x="284" y="200" width="83" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-16" value="123.1.1.1/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8FCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="277" y="530" width="280" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-25" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;R3&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FBFBFB);" vertex="1" parent="1">
+          <mxGeometry x="284" y="595" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-26" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;R4&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489" y="600" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#6AC2AD;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datacenter;" vertex="1" parent="1">
+          <mxGeometry x="284" y="490" width="83" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="uU-tdq5WraORiFn74uMR-28" value="123.1.1.1/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
